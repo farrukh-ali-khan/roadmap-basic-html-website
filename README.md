@@ -83,3 +83,7 @@ SOFTWARE.
 For any questions or feedback, please reach out to:
 
 - **Author**: Farrukh Ali Khan
+
+## Project Reference
+
+For more details on the project structure, visit [Roadmap.sh - Basic HTML Website](https://roadmap.sh/projects/basic-html-website).
